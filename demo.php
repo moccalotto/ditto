@@ -32,4 +32,5 @@ try {
     print 'Correct exception' . PHP_EOL;
 }
 
-print $ditto->getOr('foo.bing', 'nåller');
+print $ditto->getOr('foo/bar', 'fallback value') . PHP_EOL;
+print $ditto->getOr('foo/bing', 'fallback value') . PHP_EOL;
