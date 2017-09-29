@@ -1,6 +1,6 @@
 <?php
 
-namespace Moccalotto\Ditto;
+namespace Ditto;
 
 use UnexpectedValueException;
 

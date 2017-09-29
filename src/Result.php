@@ -1,6 +1,6 @@
 <?php
 
-namespace Moccalotto\Ditto;
+namespace Ditto;
 
 /**
  * DTO for function call results.

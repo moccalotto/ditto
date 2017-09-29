@@ -1,6 +1,6 @@
 <?php
 
-use Moccalotto\Ditto\Ditto;
+use Ditto\Ditto;
 
 require 'vendor/autoload.php';
 
